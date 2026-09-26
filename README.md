@@ -8,6 +8,7 @@ The unglamorous parts: the data plane, the infrastructure, the cost engineering,
 
 - [**isseikuzuki.co.uk**](https://isseikuzuki.co.uk): portfolio, projects, long-form writing.
 - [**FPL Pulse**](https://github.com/ikuzuki/fpl-platform): open-source LLM enrichment pipeline and transfer-recommendation agent on AWS. [Live dashboard](https://fpl.isseikuzuki.co.uk).
+- [**Tube Race**](https://github.com/ikuzuki/tube-race): a daily fog-of-war navigation game on the London Underground, Dijkstra underneath. [Play it](https://tube-race.isseikuzuki.co.uk/).
 
 ## Writing
 
