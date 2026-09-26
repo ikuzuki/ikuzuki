@@ -8,7 +8,6 @@ The unglamorous parts: the data plane, the infrastructure, the cost engineering,
 
 - [**isseikuzuki.co.uk**](https://isseikuzuki.co.uk): portfolio, projects, long-form writing.
 - [**FPL Pulse**](https://github.com/ikuzuki/fpl-platform): open-source LLM enrichment pipeline and transfer-recommendation agent on AWS. [Live dashboard](https://fpl.isseikuzuki.co.uk).
-- [**issei-plugin**](https://github.com/ikuzuki/issei-plugin): skills, review agents and hooks for Claude Code. The personal half of a team-scale setup.
 - An open [PR to the Anthropic cookbook](https://github.com/anthropics/claude-cookbooks/pull/657) on bounded agent loops.
 
 ## Writing
