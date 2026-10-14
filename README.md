@@ -4,20 +4,27 @@ Data engineer by trade. I design and build LLM-based systems, and I'm always loo
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://fpl.isseikuzuki.co.uk/"><img src="assets/fpl-pulse.webp" width="100%" alt="FPL Pulse dashboard, gameweek briefing"></a>
       <p><b>FPL Pulse</b><br>A weekly LLM enrichment pipeline for Fantasy Premier League, live on AWS.</p>
       <p><a href="https://github.com/ikuzuki/fpl-platform">Code</a> · <a href="https://fpl.isseikuzuki.co.uk/">Live</a> · <a href="https://isseikuzuki.co.uk/projects/fpl-pulse/">Write-up</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://fpl.isseikuzuki.co.uk/chat"><img src="assets/scout-agent.webp" width="100%" alt="Scout Agent comparing two players head to head"></a>
       <p><b>Scout Agent</b><br>A LangGraph agent that plans, fetches and reasons about transfers.</p>
       <p><a href="https://github.com/ikuzuki/fpl-platform/tree/main/services/agent">Code</a> · <a href="https://fpl.isseikuzuki.co.uk/chat">Live</a> · <a href="https://isseikuzuki.co.uk/projects/scout-agent/">Write-up</a></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://tube-race.isseikuzuki.co.uk/"><img src="assets/tube-race.webp" width="100%" alt="Tube Race game board over a dark map of London"></a>
       <p><b>Tube Race</b><br>A daily fog-of-war navigation game on the London Underground.</p>
       <p><a href="https://github.com/ikuzuki/tube-race">Code</a> · <a href="https://tube-race.isseikuzuki.co.uk/">Play</a> · <a href="https://isseikuzuki.co.uk/projects/tube-race/">Write-up</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ikuzuki/lifeboard"><img src="assets/lifeboard.webp" width="100%" alt="Lifeboard on a phone: Today, Goals and Buy screens"></a>
+      <p><b>Lifeboard</b><br>A phone-first tracker for tasks, goals and shopping that sorts by when to start, not when it's due.</p>
+      <p><a href="https://github.com/ikuzuki/lifeboard">Code</a> · <a href="https://lifeboard.isseikuzuki.co.uk/">Try it</a> · <a href="https://github.com/ikuzuki/lifeboard/blob/main/docs/how-it-was-built.md">How it was built</a></p>
     </td>
   </tr>
 </table>
